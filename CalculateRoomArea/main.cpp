@@ -18,4 +18,5 @@ int main()
 
     cout << "Calculated Room Height: " << room_area << endl;
 
+    return 0;
 }
